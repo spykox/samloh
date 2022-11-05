@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+.tytle{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: rgb(6, 236, 252);
+    font-size: 50px;
+}
+.supergide{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+body {
+    background-color: black;
+}
+.topgide{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: aqua;
+    font-size: 30px;
+    margin-bottom: 40px;
+}
+input{
+    font-size: 30px;
+    width: 600px;
+}
